@@ -1,0 +1,30 @@
+{
+  "name": "first-test",
+  "version": "1.0.0",
+  "description": "this is a test project to learn node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:unit:watch": "jest --watch",
+    "start": "cat ./test.txt & node src/index.js",
+    "mary": "yygygghjh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryamsedighi/node.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "shahrokh"
+  ],
+  "author": "mary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryamsedighi/node/issues"
+  },
+  "homepage": "https://github.com/maryamsedighi/node#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
